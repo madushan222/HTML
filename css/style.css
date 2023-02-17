@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+    border:1px solid black;
+}
+
+ol{
+    list-style: decimal;
+}
+
+ul{
+    list-style:disc;
+}
+
+p{
+    color:blue;
+    background-color:yellow;
+}
+
+body{
+    background-image:url("../b.jpg");
+    background-repeat:no-repeat;
+    
+}
